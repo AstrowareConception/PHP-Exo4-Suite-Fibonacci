@@ -14,7 +14,7 @@ Creez donc une fonction qui prend un paramètre de type int, cela correspondra �
 
 # Exemple
 
-_fibonnaci(12) ;_
+_fibonacci(12) ;_
 
 Devra afficher le résultat suivant :
 
