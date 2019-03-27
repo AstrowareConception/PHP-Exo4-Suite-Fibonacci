@@ -24,6 +24,6 @@ _144_
 
 Renseignez-vous sur le principe de _récursivité_ et essayez de reprogrammer la fonction de calcul de la suite de Fibonacci de manière récursive.
 
-# Pour en savoir plus :
+# Pour en savoir plus
 
 Cette suite est fortement liée au nombre d'or, φ (phi). Ce nombre intervient dans l'expression du terme général de la suite. Inversement, la suite de Fibonacci intervient dans l'écriture des réduites de l'expression de φ en fraction continue : les quotients de deux termes consécutifs de la suite de Fibonacci sont les meilleures approximations du nombre d'or.
